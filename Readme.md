@@ -8,9 +8,10 @@
 
 A comprehensive survey of state-of-the-art deepfake detection approaches that leverage physiological and behavioral signals, including breathing dynamics, eye movements, facial muscle activations, heart-rate estimation, and other biometric cues. The work analyzes existing challenges, benchmark datasets, evaluation metrics, and future research directions for building robust and explainable deepfake detection systems.
 
-### 2. Hybrid Semantic Similarity Modeling using Transformers and Large Language Models
+### 2. Domain Segmentation of Multilingual Input Texts: A Hybrid SBERT–LLM Reranking Approach.
 
-**Venue:** ReCCAP, IIT Palakkad (Accepted & Published)
+
+**Venue:** Proceedings of International Conference of Recent Advances in Electronics,Communication, Computing, Automation and Power (RECCAP 2026), IIT Palakkad (Accepted & Published)
 
 Developed a hybrid semantic similarity framework that combines transformer-based embeddings with Large Language Models (LLMs) to improve text similarity assessment and domain-specific document understanding. The proposed approach enhances semantic matching performance for knowledge retrieval and information extraction applications.
 
