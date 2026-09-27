@@ -4,7 +4,7 @@
 
 ### 1. Toward Robust Deepfake Detection: A Survey of Video-Based Physiological and Behavioral Signal Analysis
 
-**Status:** Under Revision (IEEE Transactions)
+**Status:** Accepted as a Regular Paper (IEEE Transactions)
 
 A comprehensive survey of state-of-the-art deepfake detection approaches that leverage physiological and behavioral signals, including breathing dynamics, eye movements, facial muscle activations, heart-rate estimation, and other biometric cues. The work analyzes existing challenges, benchmark datasets, evaluation metrics, and future research directions for building robust and explainable deepfake detection systems.
 
