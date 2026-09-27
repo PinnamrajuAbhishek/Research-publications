@@ -7,7 +7,7 @@
 **Status:** Accepted as a Regular Paper (IEEE Transactions)
 
 A comprehensive survey of state-of-the-art deepfake detection approaches that leverage physiological and behavioral signals, including breathing dynamics, eye movements, facial muscle activations, heart-rate estimation, and other biometric cues. The work analyzes existing challenges, benchmark datasets, evaluation metrics, and future research directions for building robust and explainable deepfake detection systems.
-
+Paper link - https://ieeexplore.ieee.org/document/11695216
 ### 2. Domain Segmentation of Multilingual Input Texts: A Hybrid SBERT–LLM Reranking Approach.
 
 
